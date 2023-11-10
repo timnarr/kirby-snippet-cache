@@ -47,7 +47,7 @@ Take a look at the following example of what a cached snippet with slots would l
 <?php endsnippet() ?>
 ```
 
-### Clear cache
+## Clear cache
 
 All caches are automatically cleared when an site (using the `page.update:after` hook) or page update (using the `site.update:after` hook) happens.
 
