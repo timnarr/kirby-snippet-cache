@@ -55,7 +55,6 @@ All caches are automatically cleared when an site (using the `page.update:after`
 
 | Option          | Default | Description                                                                              |
 | --------------- | ------- | ---------------------------------------------------------------------------------------- |
-| `cache`         | `true`  | Enable/disable cache                                                                     |
 | `duration`      | `0`     | Default cache duration in minutes. Can be defined per snippet. `0` means infinite cache duration.                                                                   |
 
 Set options in your `config.php` file:
